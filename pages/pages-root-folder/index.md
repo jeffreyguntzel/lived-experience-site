@@ -36,4 +36,4 @@ breadcrumb: false
 # this page as active in the topbar navigation
 homepage: true
 ---
-<!-- Testing Travis -->
+<!-- Testing Travis-CI -->
